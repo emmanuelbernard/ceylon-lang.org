@@ -26,9 +26,13 @@ Install Awestruct, a Ruby based site generator.
     #or
     sudo gem install awestruct
 
-The Awestruct version known to work is 0.2.13
+The Awestruct version known to work is 0.4.6
 
-    sudo gem install awestruct --version 0.2.13
+    sudo gem install awestruct --version 0.4.6
+
+Auso install the htmlentities gem
+
+    gem install htmlentities
 
 Get the website source from GitHub.
 
